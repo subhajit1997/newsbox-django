@@ -11,7 +11,11 @@ NewsApp is a Django project that gathers news across various categories using So
 - Responsive design: The application is built with a responsive design, ensuring optimal user experience across devices.
 
 ## Design
+
+Aggregator and Indexing Modules : https://github.com/subhajit1997/newsbox-parent.git
+
 ![Architecture Diagram](newsbox/architecture.png)
+
 
 
 ## Setup and Installation
